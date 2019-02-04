@@ -5,7 +5,7 @@
  created 7 Oct 2018
  by Karan Dhawan
 
- This example code is in the public domain.
+ This example code is in the public domain vnnfmnjf.
 */
 
 #include<iostream>
